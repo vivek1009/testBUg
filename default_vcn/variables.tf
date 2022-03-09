@@ -13,7 +13,7 @@
     
     variable "vcn_cidr" {
       type = "string"
-      default = " 10-04-19 12:00:17"
+      default = "192.0. 2.146"
     }
 
     variable "vcn_dns_label" {
